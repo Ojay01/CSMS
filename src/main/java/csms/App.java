@@ -17,7 +17,7 @@ public class App extends Application {
 
     @Override
     public void start(Stage stage) throws IOException {
-        scene = new Scene(loadFXML("primary"), 680, 480);
+        scene = new Scene(loadFXML("login"), 680, 480);
         stage.setTitle("College of Hopes, Arts and Sciences");
         stage.setScene(scene);
         stage.setMinWidth(660);

@@ -13,7 +13,7 @@
 <?import javafx.scene.layout.VBox?>
 
 
-<HBox alignment="CENTER" spacing="20.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="csms.PrimaryController">
+<HBox alignment="CENTER" spacing="20.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="csms.LoginController">
    <children>
       <StackPane prefHeight="400.0" prefWidth="350.0" styleClass="left-form" stylesheets="@styles.css">
          <children>
